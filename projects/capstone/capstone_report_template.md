@@ -7,9 +7,8 @@ December 31st, 2050
 _(approx. 1-2 pages)_
 
 ### Project Overview
-In this section, look to provide a high-level overview of the project in layman’s terms. Questions to ask yourself when writing this section:
-- _Has an overview of the project been provided, such as the problem domain, project origin, and related datasets or input data?_
-- _Has enough background information been given so that an uninformed reader would understand the problem domain and following problem statement?_
+While the Efficient Market Hypothesis dictates that stock prices cannot be understood in terms of  historical pattern, rendering the prediction of future prices an unlikely effort; beahvioral economists have suggested several factors that play into the movement of prices. As I realized that a learning system would better lay out the actual factors that determine the prices than an expert with domain knowledge, I developed a model that processes historical data[datayı nereden aldın/official adı ne] and predicts future movements in prices. In this section, look to provide a high-level overview of the project in layman’s terms. Questions to ask yourself when writing this section:
+
 
 ### Problem Statement
 In this section, you will want to clearly define the problem that you are trying to solve, including the strategy (outline of tasks) you will use to achieve the desired solution. You should also thoroughly discuss what the intended solution will be for this problem. Questions to ask yourself when writing this section:
