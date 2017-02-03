@@ -1,13 +1,12 @@
 # Machine Learning Engineer Nanodegree
-## Capstone Project
-Joe Udacity  
-December 31st, 2050
+## Classifying the Movement of Security Prices
+Burak Yılmaz
+January, 2017
 
 ## I. Definition
-_(approx. 1-2 pages)_
 
 ### Project Overview
-While the Efficient Market Hypothesis dictates that stock prices cannot be understood in terms of  historical pattern, rendering the prediction of future prices an unlikely effort; beahvioral economists have suggested several factors that play into the movement of prices. As I realized that a learning system would better lay out the actual factors that determine the prices than an expert with domain knowledge, I developed a model that processes historical data[datayı nereden aldın/official adı ne] and predicts future movements in prices. In this section, look to provide a high-level overview of the project in layman’s terms. Questions to ask yourself when writing this section:
+While the Efficient Market Hypothesis dictates that stock prices cannot be understood in terms of  historical pattern, rendering the prediction of future prices an unlikely effort; beahvioral economists have suggested several factors that play into the movement of prices. As I realized that a learning system would better lay out the actual factors that determine the prices than an expert with domain knowledge, I developed a model that processes historical data[datayı nereden aldın/official adı ne] and predicts future movements in prices.
 
 
 ### Problem Statement
